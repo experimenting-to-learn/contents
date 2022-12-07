@@ -7,10 +7,10 @@ Welcome to experimenting-to-learn's documentation!
 ==================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
-   위임형-블록체인-지갑
+   blinc-intro
 
 
 
