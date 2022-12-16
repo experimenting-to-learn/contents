@@ -11,6 +11,7 @@ Welcome to experimenting-to-learn's documentation!
    :caption: Contents:
 
    blinc-intro
+   serverless-microservice
 
 
 
